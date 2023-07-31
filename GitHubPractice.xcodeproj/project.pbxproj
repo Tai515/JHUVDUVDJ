@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 9FAFE38A2A786896006B789F /* Build configuration list for PBXProject "JHUVDUVDJ" */;
+			buildConfigurationList = 9FAFE38A2A786896006B789F /* Build configuration list for PBXProject "GitHubPractice" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -279,7 +279,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = KWK.JHUVDUVDJ;
+				PRODUCT_BUNDLE_IDENTIFIER = KWK.GitHubPractice;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -307,7 +307,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = KWK.JHUVDUVDJ;
+				PRODUCT_BUNDLE_IDENTIFIER = KWK.GitHubPractice;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -318,7 +318,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		9FAFE38A2A786896006B789F /* Build configuration list for PBXProject "JHUVDUVDJ" */ = {
+		9FAFE38A2A786896006B789F /* Build configuration list for PBXProject "GitHubPractice" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9FAFE39B2A786898006B789F /* Debug */,
